@@ -1,0 +1,8 @@
+# Ignore the Python virtual environment (Some typical namings)
+env
+venv
+.venv
+
+# Ignore compiled bytecode
+__pycache__
+.mypy_cache
